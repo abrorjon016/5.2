@@ -1,0 +1,11 @@
+ arrow function va regular functionni farqlari :
+
+
+
+1.qisqa qilib yoziladi,regular uznroq qilib yoziladi
+2return yozish shart emas,regularda shart
+3.arrow functionda this ishlamedi, regulrda this ishledi 
+4.arrow function hoistong bolmaydi, regular boladi
+5.konstruktor function arrow functionda yozib bomedi 
+6.arguments arrow functionda ishlamedi
+ 
